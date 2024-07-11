@@ -1,6 +1,3 @@
-Project Description:  
-
-This repository contains code for a project focused on data extraction from unstructured text documents.  
 The project involves:  
 
 API Development: Flask-based API (api.py) for accessing and serving document data stored in an SQLite database (documents.db).  
